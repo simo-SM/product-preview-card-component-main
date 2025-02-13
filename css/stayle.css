@@ -194,7 +194,7 @@ body{
     .card_container {
         display: flex;
         flex-direction: column;
-        
+        height:auto;
     }
     .container {
         max-width: 350px;
